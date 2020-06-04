@@ -1,0 +1,2 @@
+model_checkpoint_path: "interpolation"
+all_model_checkpoint_paths: "interpolation"

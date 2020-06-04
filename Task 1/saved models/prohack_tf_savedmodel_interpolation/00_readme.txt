@@ -1,0 +1,1 @@
+model tuned for interpolated data (slinear, k=3, negatives ignored)
